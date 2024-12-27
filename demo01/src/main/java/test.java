@@ -9,6 +9,7 @@ public class test {
 
         driver.get("https://google.com");
         System.out.println(driver.getTitle());
+        System.out.println("edit from MAC Air");
         driver.quit();
     }
 }
